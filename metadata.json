@@ -1,0 +1,5 @@
+{
+  "name": "ComFreight Shipment Tracking",
+  "description": "A comprehensive freight shipment tracking system with AI-powered automated exception handling. This system enables operations teams to create, track, and manage shipments through their complete lifecycle while automatically detecting and flagging operational anomalies for timely resolution.",
+  "requestFramePermissions": []
+}
